@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>macai</title>
+        <item>
+            <title>2.4.3</title>
+            <pubDate>Mon, 23 Mar 2026 14:35:30 +0000</pubDate>
+            <link>https://tunji17.github.io/macos-chat-releases/</link>
+            <sparkle:version>2.4.3</sparkle:version>
+            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Tunji17/macos-chat-releases/releases/download/v2.4.3/macai-2.4.3.dmg" length="12793010" type="application/octet-stream" sparkle:edSignature="KKhTQ+/LhcT23bifQkHaK/KhTkuyoxPtGPuqDujatGscRXFUOro/trLWwiWF3g2xeYrwxfhhpiU6+QkOLp9QAw=="/>
+        </item>
+    </channel>
+</rss>
