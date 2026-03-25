@@ -3,6 +3,15 @@
     <channel>
         <title>macai</title>
         <item>
+            <title>2.4.4</title>
+            <pubDate>Wed, 25 Mar 2026 16:43:49 +0000</pubDate>
+            <link>https://tunji17.github.io/macos-chat-releases/</link>
+            <sparkle:version>2.4.4</sparkle:version>
+            <sparkle:shortVersionString>2.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Tunji17/macos-chat-releases/releases/download/v2.4.4/macai-2.4.4.dmg" length="12812948" type="application/octet-stream" sparkle:edSignature="lUBeqyTwKCXvdzY/zTxfCCtPa4XMip32eOAkutsmokUr+3aWW7VtJRCW/ZMCfkzYRz0z9H+9pplCFVgkxXDVDg=="/>
+        </item>
+        <item>
             <title>2.4.3</title>
             <pubDate>Mon, 23 Mar 2026 14:35:30 +0000</pubDate>
             <link>https://tunji17.github.io/macos-chat-releases/</link>
